@@ -1,0 +1,15 @@
+{
+  "name": "atrium",
+  "short_name": "atrium",
+  "start_url": "index.html",
+  "scope": ".",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "portrait",
+  "background_color": "#E8E1D1",
+  "theme_color": "#E8E1D1",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
